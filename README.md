@@ -1,5 +1,5 @@
-# Text_completer
-Small auto-completion app in R Shiny.
+# Text_completer /auto-completion in R Shiny
+Small auto-completion function in R Shiny.
 
 App is available at.
 https://emcarlss.shinyapps.io/Text_completer/
